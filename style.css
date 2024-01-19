@@ -1,0 +1,154 @@
+
+body {
+    background-color: rgb(240, 237, 231);
+    margin-left: 0px;
+    margin-right: 0px;
+    line-height: 1.5em;
+    margin-bottom: 0px;
+}
+
+hr {
+    height: 0.1em;
+    background-color: rgb(7, 40, 6);
+    
+}
+
+img {
+    width: 375px;
+    height: 221px;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 230px;
+    height: 100px; 
+    justify-content: center;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+
+
+h1 {
+    font-size: 1.7em;
+    margin-left: 0.7em;
+    margin-right: 0.7em;
+}
+
+h2 {
+    font-size: 1.4em;
+    width: 10em;
+    margin-left: 0.7em;
+}
+
+p {
+    width: 19em;
+    margin-left: 1em;
+}
+
+nav ul {
+    justify-content: center;
+    padding: 0px;
+    margin-left: 3.4em;
+}
+
+ul {
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bolder;
+    color: rgb(12, 55, 10);
+    padding-right: 0.3em;
+    
+}
+
+
+ul li {
+    display: inline-flex;
+}
+
+.icoontjes {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 1em;
+}
+
+.broek {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.shirt {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.recycle {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.icoontjes img {
+    width: 100%;
+    height: 100%;
+}
+
+.vakje {
+    background-color: rgb(202, 163, 66);
+    border-radius: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-weight: normal;
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(7, 40, 6);
+    color: white;
+    padding-top: 1em; 
+    display: block;
+    width: 100%;
+    padding-bottom: 1em;
+    border-radius: 0.7em;
+    margin-top: 3em;
+}
+
+.footertext {
+    padding-left: 1em;
+} 
+
+.footerfotos {
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    padding-left: 3em;
+    padding-top: 1em;
+}
+
+.footerfotos img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+    
+
+
